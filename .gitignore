@@ -1,0 +1,4 @@
+*.pdf
+*.swp
+*.pyc
+.ipynb_checkpoints/
