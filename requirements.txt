@@ -9,7 +9,7 @@ cycler==0.10.0
 cymem==2.0.2
 decorator==4.4.0
 defusedxml==0.5.0
-Django==2.1.7
+Django==2.2.13
 entrypoints==0.3
 fastai==1.0.50.post1
 fastprogress==0.1.20
